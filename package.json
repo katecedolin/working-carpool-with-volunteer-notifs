@@ -1,0 +1,17 @@
+{
+  "name": "sdsu-helping-hands",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo \"Static site\" && exit 0"
+  },
+  "dependencies": {
+    "twilio": "^4.23.0",
+    "luxon": "^3.4.4",
+    "libphonenumber-js": "^1.10.53",
+    "@sendgrid/mail": "^8.1.0",
+    "papaparse": "^5.4.1"
+  }
+}
