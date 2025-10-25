@@ -1,11 +1,7 @@
-# Carpool Automator (Netlify-ready)
+# Carpool Automator 
 
 A static, client‑side web app that builds carpool groups from a Google Sheets responses tab.
 
-## How to deploy on Netlify
-1. Download the ZIP from ChatGPT.
-2. Drag‑and‑drop it into Netlify (or push these files to a repo and connect it).
-3. That’s it — no build step required.
 
 ## Usage
 - Paste the Google Sheets link (must be readable by **Anyone with the link**).
